@@ -29,7 +29,7 @@ INSTALLED_APPS = [
     'django_htmx',
     'django_extensions',
 
-    'books',
+    'core',
 ]
 
 MIDDLEWARE = [
